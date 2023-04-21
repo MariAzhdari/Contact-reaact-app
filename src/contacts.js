@@ -1,6 +1,6 @@
 const contacts = [
   {
-    name: "Mo Nahvi",
+    name: "Mo  Nahvi",
     imgURL:
       "https://media.licdn.com/dms/image/D4E03AQG7yc1MshPnSA/profile-displayphoto-shrink_100_100/0/1669587102407?e=1687392000&v=beta&t=TLET5N_ry3roOirf38cVqMyRmE2ckpDKbrfUD_-FoE4",
     phone: "+123 456 789",
